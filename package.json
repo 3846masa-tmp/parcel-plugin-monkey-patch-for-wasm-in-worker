@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "@3846masa/parcel-plugin-workers-patch",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "3846masa <3846masahiro+git@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "parcel-bundler": "*",
+    "chalk": "*"
+  }
+}
